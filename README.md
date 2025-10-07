@@ -6,9 +6,9 @@ Sou um desenvolvedor Full-Stack em constante evolução. Adoro transformar ideia
 
 #### 🛠️ Habilidades e Ferramentas
 
-**Linguagens:** Python
+**Linguagens:** Python, SQL
 
-**Ferramentas:** Git, GitHub
+**Ferramentas:** Git, GitHub, MySQL
 
 
 
