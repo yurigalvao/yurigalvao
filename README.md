@@ -14,7 +14,7 @@ Sou um desenvolvedor Full-Stack em constante evolução. Adoro transformar ideia
 
 #### 💡 O que estou aprendendo
 
-Atualmente, estou focado em Programação Orientada a Objetos (POO) em Python e inciando meu conhecimento em bancos de dados.
+Atualmente, estou focado em SQL , MySQL e SQLite3 e inciando meu conhecimento em frameworks com DJANGO.
 
 ---
 
